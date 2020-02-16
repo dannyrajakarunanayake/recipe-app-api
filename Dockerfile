@@ -1,5 +1,5 @@
 FROM python:3.7-alpine
-MAINTAINER danny ferdinandusz
+LABEL MAINTAINER danny ferdinandusz
 
 ENV PYTHONUNBUFFERED 1
 
